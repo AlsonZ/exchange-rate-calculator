@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/exchange-rate-calculator/static/css/main.35d636fd.chunk.css",
+    "main.js": "/exchange-rate-calculator/static/js/main.d0235e67.chunk.js",
+    "main.js.map": "/exchange-rate-calculator/static/js/main.d0235e67.chunk.js.map",
+    "runtime-main.js": "/exchange-rate-calculator/static/js/runtime-main.5f6ef74d.js",
+    "runtime-main.js.map": "/exchange-rate-calculator/static/js/runtime-main.5f6ef74d.js.map",
+    "static/js/2.52480a49.chunk.js": "/exchange-rate-calculator/static/js/2.52480a49.chunk.js",
+    "static/js/2.52480a49.chunk.js.map": "/exchange-rate-calculator/static/js/2.52480a49.chunk.js.map",
+    "index.html": "/exchange-rate-calculator/index.html",
+    "precache-manifest.259eb8a344d0dc4697897d2a71ec38c4.js": "/exchange-rate-calculator/precache-manifest.259eb8a344d0dc4697897d2a71ec38c4.js",
+    "service-worker.js": "/exchange-rate-calculator/service-worker.js",
+    "static/css/main.35d636fd.chunk.css.map": "/exchange-rate-calculator/static/css/main.35d636fd.chunk.css.map",
+    "static/js/2.52480a49.chunk.js.LICENSE.txt": "/exchange-rate-calculator/static/js/2.52480a49.chunk.js.LICENSE.txt",
+    "static/media/exchange.svg": "/exchange-rate-calculator/static/media/exchange.0188afaf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f6ef74d.js",
+    "static/js/2.52480a49.chunk.js",
+    "static/css/main.35d636fd.chunk.css",
+    "static/js/main.d0235e67.chunk.js"
+  ]
+}
